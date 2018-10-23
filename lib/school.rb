@@ -5,8 +5,8 @@ class School
 
   def initilize(student)
     @student = student
-    
-  end  
-  
-  
+
+  end
+
+
 end
